@@ -275,6 +275,10 @@
 				width: 100%;
 			}
 
+		.image.rounded {
+			border-radius: 50%;
+		}
+
 /* Icon */
 
 	.icon {
