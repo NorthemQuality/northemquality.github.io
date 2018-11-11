@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## NorthemQuality community
 
-You can use the [editor on GitHub](https://github.com/NorthemQuality/northemquality.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Como comunidad, queremos intentar impulsar el crecimiento del testing y la ingeniería de la calidad. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tenemos en mente diferentes proyectos que esperamos que os sean interesantes y en los que queráis participar. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Iniciativas
 
-```markdown
-Syntax highlighted code block
+#### Actividades
 
-# Header 1
-## Header 2
-### Header 3
+Meetups, talleres y el club de lectura. Desde el repositorio de actividades gestionaremos todas las propuestas.
 
-- Bulleted
-- List
+Para más información podéis acceder al repositorio de actividades de la comunidad:
 
-1. Numbered
-2. List
+[community-activities](https://github.com/NorthemQuality/community-activities).
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+#### Recursos y documentación
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Directorio donde se encuentra documentación de la comunidad, listado de artículos, blogs, cuentas de twitter etc.
 
-### Jekyll Themes
+Para más información podéis acceder al repositorio de documentación de la comunidad:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NorthemQuality/northemquality.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[community-documentation](https://github.com/NorthemQuality/community-documentation).
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contacto
+
+Email: northemquality.info@gmail.com
+
+Slack: https://northemquality.slack.com/
+
+Twitter: [@NorthemQuality](https://twitter.com/northemquality).
+
+
+
+#### Organizadores
+
+Francisco Moreno [@morvader](https://twitter.com/morvader).
+
+Aritz Águila [@duiraritz](https://twitter.com/duiraritz).
